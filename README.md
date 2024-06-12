@@ -1,1 +1,2 @@
 # odin-recipes
+This project is all about making a recipe website. I'll demonstrate how to create and use various aspects of a HTML document including links to other recipes, logging progress into Git, and creating a cohesive webpage with several connected webpages
