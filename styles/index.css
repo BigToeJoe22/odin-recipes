@@ -82,6 +82,7 @@ p a .right {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    white-space: nowrap;
   }
 
 .brownie{
@@ -92,6 +93,7 @@ p a .right {
     font-size: 40px;
     border-radius: 30px;
     height: auto;
+    white-space: nowrap;
 }
 
 .brownie-image{
@@ -103,6 +105,22 @@ p a .right {
     height:auto;
 }
 
-.uchiha{
+.left-side {
+    position:relative;
+    overflow-y: visible;
+}
 
+
+.uchiha{
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+    height:450px;
+    justify-items:left;
+    padding-right: 15px;
+    padding-left: 15px;
+    position: absolute;
+    left: 20px; /* Adjust this value to control how much the image overflows */
+
+}
 }
