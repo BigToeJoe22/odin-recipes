@@ -2,15 +2,18 @@
     font-family: "Comic Sans MS", "cursive";
     }
 
-body{
+body {
     background-color: black;
 }
-.border{
+.border {
     background-color: red;
     text-align: center;
     width: 500px;
     border-radius: 50px;
     padding:5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .baby-border{
@@ -22,29 +25,50 @@ body{
     border-radius: 30px;
 }
 
-div,
+p,
 a {
+    display: inline;
     text-decoration: none;
-    font-size: 10px;
+    font-size: 40px;
     color:red;
-    display: inline-block;
-    margin:10px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-
-div.left{
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+a.left {
+    display: inline;
+    margin-left: auto;
+    margin-right: auto;
     text-align: left;
 }
 
 
-div.center{
+a.center {
+    display: inline;
+    margin-left: auto;
+    margin-right: auto;
     text-align: center;
 
 }
 
 
-div.right {
-    text-align:right;
-    
+p a .right {
+    display: inline;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: right;
 }
 
+.center-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    height:auto;
+  }
