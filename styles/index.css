@@ -72,3 +72,37 @@ p a .right {
     width: 40%;
     height:auto;
   }
+
+.cherry{
+    background-color: red;
+    text-align: center;
+    width: 500px;
+    border-radius: 50px;
+    padding:5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.brownie{
+    width:500px;
+    text-align: center;
+    background-color: black;
+    color:red;
+    font-size: 40px;
+    border-radius: 30px;
+    height: auto;
+}
+
+.brownie-image{
+    padding: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    height:auto;
+}
+
+.uchiha{
+
+}
