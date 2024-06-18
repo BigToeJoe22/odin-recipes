@@ -116,7 +116,7 @@ p a .right {
     left: 20px; /* Adjust this value to control how much the image overflows */
 }
 
-.title2{
+.title2 {
     font-size:25px;
     color:rgb(6, 215, 226);
     background-color: rgb(123, 49, 123);
@@ -127,7 +127,7 @@ p a .right {
   border-radius: 20px;
 }
 
-.title3{
+.title3 {
     font-size:25px;
     color:rgb(6, 215, 226);
     background-color: rgb(123, 49, 123);
@@ -138,10 +138,15 @@ p a .right {
   border-radius: 20px;
 }
 
+.title2,
 p{
     color:rgb(31, 31, 115);
+    font-size: 20px;
 }
 
+.title3,
 li{
-    color:aqua
+    color:rgb(6, 215, 226);
+    font-size:20px;
 }
+
