@@ -41,13 +41,13 @@ a {
     align-items: center;
     width: 100%;
 }
+
 a.left {
     display: inline;
     margin-left: auto;
     margin-right: auto;
     text-align: left;
 }
-
 
 a.center {
     display: inline;
@@ -56,7 +56,6 @@ a.center {
     text-align: center;
 
 }
-
 
 p a .right {
     display: inline;
@@ -105,12 +104,6 @@ p a .right {
     height:auto;
 }
 
-.left-side {
-    position:relative;
-    overflow-y: visible;
-}
-
-
 .uchiha{
     margin-left: auto;
     margin-right: auto;
@@ -121,6 +114,34 @@ p a .right {
     padding-left: 15px;
     position: absolute;
     left: 20px; /* Adjust this value to control how much the image overflows */
-
 }
+
+.title2{
+    font-size:25px;
+    color:rgb(6, 215, 226);
+    background-color: rgb(123, 49, 123);
+   text-align: center;
+  margin-left: 30%;
+  margin-right: 30%;
+  font-weight: bold;
+  border-radius: 20px;
+}
+
+.title3{
+    font-size:25px;
+    color:rgb(6, 215, 226);
+    background-color: rgb(123, 49, 123);
+   text-align: center;
+  margin-left: 30%;
+  margin-right: 30%;
+  font-weight: bold;
+  border-radius: 20px;
+}
+
+p{
+    color:rgb(31, 31, 115);
+}
+
+li{
+    color:aqua
 }
