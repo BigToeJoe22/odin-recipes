@@ -256,6 +256,18 @@ h3.sand3 {
     right: 20px;
 }
 
+.dogs{
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+    height:670px;
+    justify-items:left;
+    padding-right: 15px;
+    padding-left: 15px;
+    position: absolute;
+    left: 20px; 
+}
+
 h2.sharingan2{
     font-size:30px;
     color:rgb(183, 28, 28);
