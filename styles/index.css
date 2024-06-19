@@ -222,3 +222,73 @@ h3.sand3 {
     font-size: 20px;
 }
 
+.chicken{
+    background-color: rgb(238, 19, 19);
+    text-align: center;
+    width: 500px;
+    border-radius: 50px;
+    padding:5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    white-space: nowrap;
+}
+
+.alfredo{
+    width:500px;
+    text-align: center;
+    background-color: black;
+    color:rgb(85, 208, 212);
+    font-size: 40px;
+    border-radius: 30px;
+    height: auto;
+    white-space: nowrap;
+}
+
+.kakashi{
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+    height:450px;
+    justify-items:right;
+    padding-right: 15px;
+    padding-left: 15px;
+    position: absolute;
+    right: 20px;
+}
+
+h2.sharingan2{
+    font-size:25px;
+    color:rgb(6, 215, 226);
+    background-color: black;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-weight: bold;
+    border-radius: 20px;
+}
+
+h3.sharingan3{
+    font-size:25px;
+    color:rgb(199, 199, 57);
+    background-color: black;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-weight: bold;
+    border-radius: 20px;
+    margin-top:20px;
+}
+
+.silver p{
+    color:red;
+    font-size: 20px;
+    margin-left: 20%;
+  margin-right: 20%;
+  text-align: center;
+}
+
+.susanoo li{
+    color:rgb(101, 101, 6);
+    font-size: 20px;
+}
