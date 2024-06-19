@@ -222,7 +222,7 @@ h3.sand3 {
 }
 
 .chicken{
-    background-color: rgb(238, 19, 19);
+    background-color: rgb(27, 95, 27);
     text-align: center;
     width: 500px;
     border-radius: 50px;
@@ -236,8 +236,8 @@ h3.sand3 {
 .alfredo{
     width:500px;
     text-align: center;
-    background-color: black;
-    color:rgb(85, 208, 212);
+    background-color:rgb(203, 192, 192) ;
+    color:rgb(183, 28, 28);
     font-size: 40px;
     border-radius: 30px;
     height: auto;
@@ -257,9 +257,9 @@ h3.sand3 {
 }
 
 h2.sharingan2{
-    font-size:25px;
-    color:rgb(6, 215, 226);
-    background-color: black;
+    font-size:30px;
+    color:rgb(183, 28, 28);
+    background-color: rgb(165, 160, 160);
     text-align: center;
     margin-left: 30%;
     margin-right: 30%;
@@ -268,26 +268,27 @@ h2.sharingan2{
 }
 
 h3.sharingan3{
-    font-size:25px;
-    color:rgb(199, 199, 57);
-    background-color: black;
+    font-size:30px;
+    color:rgb(6, 235, 247);
+    background-color:rgb(165, 160, 160) ;
     text-align: center;
     margin-left: 30%;
     margin-right: 30%;
     font-weight: bold;
     border-radius: 20px;
     margin-top:20px;
+    font-weight: bold;
 }
 
 .silver p{
-    color:red;
-    font-size: 20px;
+    color:rgb(165, 160, 160);
+    font-size: 40px;
     margin-left: 20%;
   margin-right: 20%;
   text-align: center;
 }
 
 .susanoo li{
-    color:rgb(101, 101, 6);
-    font-size: 20px;
+    color:rgb(3, 113, 3);
+    font-size: 30px;
 }
